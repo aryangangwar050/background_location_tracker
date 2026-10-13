@@ -1,0 +1,5 @@
+# Copy to key.properties and supply your own credentials. Never commit that file.
+storeFile=/absolute/path/to/tracker-release.jks
+storePassword=
+keyAlias=tracker
+keyPassword=

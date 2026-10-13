@@ -1,0 +1,13 @@
+/.gradle/
+/captures/
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+key.properties
+**/*.keystore
+**/*.jks
+
+# Keep wrapper scripts and JAR in the standalone submission.
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
